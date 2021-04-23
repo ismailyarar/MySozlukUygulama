@@ -27,7 +27,7 @@ public class Sozluk {
             List<String> a = agac.autocomplete(word.toUpperCase(Locale.ROOT));
             if (a.size() != 0) {
                 System.out.println("Olası Kelimeler"+" ("+a.size()+") "+"adet");
-                //System.out.println("Olası Kelimelerin Sayısı:" + a.size());
+                System.out.println("Olası Kelimelerin Sayısı:" + a.size());
                 System.out.println("----------------");
             } else {
                 System.out.println("Aradığınız kelime bulunamadı!");
