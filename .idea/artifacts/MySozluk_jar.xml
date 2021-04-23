@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MySozluk:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MySozluk_jar</output-path>
+    <root id="archive" name="MySozluk.jar">
+      <element id="module-output" name="MySozluk" />
+    </root>
+  </artifact>
+</component>
